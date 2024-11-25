@@ -1,2 +1,2 @@
-# Java-practice
-记录练习过的Java代码，以备后续巩固用  呵呵呵
+# GoArchive
+记录练习过的Golang代码，以备后续巩固及工作使用
